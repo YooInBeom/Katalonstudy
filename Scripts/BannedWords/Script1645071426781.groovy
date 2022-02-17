@@ -37,3 +37,5 @@ for (def rowNum = 1; rowNum <= findTestData('BannedWords').getRowNumbers(); rowN
 
 WebUI.closeBrowser()
 
+WebUI.acceptAlert()
+
