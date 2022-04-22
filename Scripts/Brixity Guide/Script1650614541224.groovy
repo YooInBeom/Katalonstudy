@@ -19,7 +19,41 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('naver.com')
+WebUI.navigateToUrl('https://www.playbrixity.com/ko/')
+
+WebUI.maximizeWindow()
+
+WebUI.click(findTestObject('Object Repository/Page_/button_'))
+
+WebUI.delay(2)
+
+WebUI.click(findTestObject('Object Repository/Page_/button__1'))
+
+WebUI.delay(2)
+
+WebUI.click(findTestObject('Object Repository/Page_/button__1_2'))
+
+WebUI.delay(2)
+
+WebUI.click(findTestObject('Object Repository/Page_/button__1_2_3'))
+
+WebUI.delay(2)
+
+WebUI.switchToWindowTitle('브릭시티 세계관 가이드북 목록')
+
+WebUI.click(findTestObject('Object Repository/Page_/a_1 -'))
+
+WebUI.click(findTestObject('Object Repository/Page_1/a_'))
+
+WebUI.click(findTestObject('Object Repository/Page_/a_2 -'))
+
+WebUI.click(findTestObject('Object Repository/Page_2/a_'))
+
+WebUI.click(findTestObject('Object Repository/Page_/a_3 -'))
+
+WebUI.click(findTestObject('Object Repository/Page_3/a_'))
+
+WebUI.click(findTestObject('Object Repository/Page_/a_4 -'))
 
 WebUI.closeBrowser()
 

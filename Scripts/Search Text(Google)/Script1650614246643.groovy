@@ -27,8 +27,8 @@ WebUI.maximizeWindow()
 
 WebUI.sendKeys(findTestObject('Google/Page_Google/input__q'), Keys.chord('seoul', Keys.ENTER))
 
-for (def rowNum = 1; rowNum <= findTestData('BannedWords').getRowNumbers(); rowNum++) {
-    WebUI.setText(findTestObject('Google/Page_Google/input__q'), findTestData('BannedWords').getValue(1, rowNum))
+for (def rowNum = 1; rowNum <= findTestData('Search Text(Google)').getRowNumbers(); rowNum++) {
+    WebUI.setText(findTestObject('Google/Page_Google/input__q'), findTestData('Search Text(Google)').getValue(1, rowNum))
 
     WebUI.sendKeys(findTestObject('Google/Page_Google/input__q'), Keys.chord(Keys.ENTER))
 

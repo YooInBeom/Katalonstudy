@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>BannedWords</name>
+   <name>Search Text(Google)</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -15,7 +15,7 @@
       <guid>29a06be7-61e0-40ed-bd97-7439528a3015</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/BannedWords</testCaseId>
+      <testCaseId>Test Cases/Search Text(Google)</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
          <id>10bc60ed-737b-4ddd-9a20-9adf3d3ae8c2</id>
@@ -23,8 +23,9 @@
             <iterationType>ALL</iterationType>
             <value></value>
          </iterationEntity>
-         <testDataId>Data Files/BannedWords</testDataId>
+         <testDataId>Data Files/Search Text(Google)</testDataId>
       </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>

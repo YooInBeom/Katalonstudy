@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_5 -</name>
+   <tag></tag>
+   <elementGuidId>724bb150-227c-4ab6-920f-c1155a196873</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//table[@id='Layout_50']/tbody/tr/td/table/tbody/tr/td/table/tbody/tr/th/table/tbody/tr[2]/td/span/span/b/a)[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>5f93e2b5-0a98-4a9b-bc38-eed3385531cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://62qww.r.bh.d.sendibt3.com/mk/mr/5OkNpoNvZrGj7597p4CrZiEkIWNGhJbxJfyt5u67IgzQLu4-fBwoeozLYhyM0p3OPzkVUjkhAFiLA_Rddm7H6tBE9soxqgpaRsFOCY-BAR4qq8ZTUmtOKJnVncSvelczIBwh0zMGoKk</value>
+      <webElementGuid>7195eaeb-c206-4a0b-8df5-92d72ffdaf7c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>챕터 5 - 옛 지구를 찾아서</value>
+      <webElementGuid>3511104f-638e-4ddb-acbe-f85503011ab3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/table[@class=&quot;main-template&quot;]/tbody[1]/tr[1]/td[1]/table[@class=&quot;templateContainer&quot;]/tbody[1]/tr[12]/td[1]/div[1]/table[@id=&quot;Layout_50&quot;]/tbody[1]/tr[1]/td[1]/table[@class=&quot;rnb-container&quot;]/tbody[1]/tr[1]/td[@class=&quot;rnb-container-padding&quot;]/table[@class=&quot;rnb-columns-container&quot;]/tbody[1]/tr[1]/th[@class=&quot;rnb-force-col&quot;]/table[@class=&quot;rnb-col-1&quot;]/tbody[1]/tr[2]/td[1]/span[1]/span[1]/b[1]/a[1]</value>
+      <webElementGuid>22716f24-cb7b-488c-a9fc-bf6da2f9eafd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//table[@id='Layout_50']/tbody/tr/td/table/tbody/tr/td/table/tbody/tr/th/table/tbody/tr[2]/td/span/span/b/a)[4]</value>
+      <webElementGuid>1b6c5e89-5ba9-46a7-8def-9f988901e585</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'챕터 5 - 옛 지구를 찾아서')]</value>
+      <webElementGuid>0aa457da-bd3e-4438-aa66-3f623aa47f17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='챕터 4 - 화성에서 지구로'])[1]/following::a[5]</value>
+      <webElementGuid>d0ce2a4a-6778-4ccf-baeb-0d4e0dc6283b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='챕터 3 - 브릭 아카데미'])[1]/following::a[10]</value>
+      <webElementGuid>8ebed5f0-dac8-49b8-b1fa-c6811e70d99a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Seoul, Rep. of Korea'])[1]/preceding::a[9]</value>
+      <webElementGuid>5d269c23-e049-4247-8ad9-0ff776554795</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='챕터 5 - 옛 지구를 찾아서']/parent::*</value>
+      <webElementGuid>33f7b712-d775-41ba-9822-4acbd96c5e77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://62qww.r.bh.d.sendibt3.com/mk/mr/5OkNpoNvZrGj7597p4CrZiEkIWNGhJbxJfyt5u67IgzQLu4-fBwoeozLYhyM0p3OPzkVUjkhAFiLA_Rddm7H6tBE9soxqgpaRsFOCY-BAR4qq8ZTUmtOKJnVncSvelczIBwh0zMGoKk')]</value>
+      <webElementGuid>bcdedf54-6aa5-48f6-acfc-6d039680c847</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[12]/td/div/table/tbody/tr/td/table/tbody/tr/td/table/tbody/tr/th/table/tbody/tr[2]/td/span/span/b/a</value>
+      <webElementGuid>5095162b-1c9b-4e6d-9d39-d507635c313e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://62qww.r.bh.d.sendibt3.com/mk/mr/5OkNpoNvZrGj7597p4CrZiEkIWNGhJbxJfyt5u67IgzQLu4-fBwoeozLYhyM0p3OPzkVUjkhAFiLA_Rddm7H6tBE9soxqgpaRsFOCY-BAR4qq8ZTUmtOKJnVncSvelczIBwh0zMGoKk' and (text() = '챕터 5 - 옛 지구를 찾아서' or . = '챕터 5 - 옛 지구를 찾아서')]</value>
+      <webElementGuid>c8d31e0b-b7fd-4e26-a235-09ffed3a06d3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
