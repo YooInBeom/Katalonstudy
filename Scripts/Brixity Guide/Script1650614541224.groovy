@@ -43,15 +43,15 @@ WebUI.switchToWindowTitle('브릭시티 세계관 가이드북 목록')
 
 WebUI.click(findTestObject('Object Repository/Page_/a_1 -'))
 
-WebUI.click(findTestObject('Object Repository/Page_1/a_'))
+WebUI.click(findTestObject('Object Repository/Page_1/a_1'))
 
 WebUI.click(findTestObject('Object Repository/Page_/a_2 -'))
 
-WebUI.click(findTestObject('Object Repository/Page_2/a_'))
+WebUI.click(findTestObject('Object Repository/Page_2/a_2'))
 
 WebUI.click(findTestObject('Object Repository/Page_/a_3 -'))
 
-WebUI.click(findTestObject('Object Repository/Page_3/a_'))
+WebUI.click(findTestObject('Object Repository/Page_3/a_3'))
 
 WebUI.click(findTestObject('Object Repository/Page_/a_4 -'))
 

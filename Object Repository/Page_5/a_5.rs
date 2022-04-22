@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_</name>
+   <name>a_5</name>
    <tag></tag>
-   <elementGuidId>604d81c4-fb87-4c21-9f1b-604ff5df7d8d</elementGuidId>
+   <elementGuidId>5275cd9b-d90d-43d1-a870-d8bf87cacd06</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>b5a8ca0a-1a70-4728-94af-8c18f1819917</webElementGuid>
+      <webElementGuid>475b3a77-743a-4291-bee7-57fac20a0fd7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>target</name>
       <type>Main</type>
       <value>_blank</value>
-      <webElementGuid>9f6b12a7-8827-40e6-932d-b88c08685c0c</webElementGuid>
+      <webElementGuid>a47393b0-7353-4a49-a7b2-f80e9702e334</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>href</name>
       <type>Main</type>
       <value>https://drive.google.com/file/d/179RNjIO8kq-9gA2AklAM_nXhOMCbVgJk/view?usp=sharing</value>
-      <webElementGuid>33b2233e-b5da-4b26-b548-ad0ba6441a6e</webElementGuid>
+      <webElementGuid>49628713-5a56-4d9a-8edd-a54c88267fa8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,55 +46,15 @@
       <name>text</name>
       <type>Main</type>
       <value>브릭시티 가이드북 목록으로 가기</value>
-      <webElementGuid>1617ada3-43c0-4d4b-ad2e-e46469f7924b</webElementGuid>
+      <webElementGuid>eba60044-5f0b-4f87-a439-8e432af7c42d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;Layout_51&quot;)/tbody[1]/tr[1]/td[@class=&quot;rnb-del-min-width&quot;]/table[@class=&quot;mso-button-block rnb-container&quot;]/tbody[1]/tr[2]/td[@class=&quot;rnb-container-padding&quot;]/table[@class=&quot;rnb-columns-container&quot;]/tbody[1]/tr[1]/th[@class=&quot;rnb-force-col&quot;]/table[@class=&quot;rnb-col-1&quot;]/tbody[1]/tr[1]/td[1]/table[@class=&quot;rnb-btn-col-content&quot;]/tbody[1]/tr[1]/td[1]/span[1]/a[1]</value>
-      <webElementGuid>eec6231e-5176-40c9-ae8a-fe16d305afda</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>tag</name>
-      <type>Main</type>
-      <value>a</value>
-      <webElementGuid>1fb9f071-0c6d-42e8-b75f-156261d7ab43</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>target</name>
-      <type>Main</type>
-      <value>_blank</value>
-      <webElementGuid>5add22a8-e3c9-4404-b36e-411ec192402d</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>href</name>
-      <type>Main</type>
-      <value>https://drive.google.com/file/d/179RNjIO8kq-9gA2AklAM_nXhOMCbVgJk/view?usp=sharing</value>
-      <webElementGuid>4c58b89d-036f-4f15-b511-56530224e00a</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>text</name>
-      <type>Main</type>
-      <value>브릭시티 가이드북 목록으로 가기</value>
-      <webElementGuid>b0f25b2a-406d-4949-b2de-6f306c6075fd</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath</name>
-      <type>Main</type>
-      <value>id(&quot;Layout_51&quot;)/tbody[1]/tr[1]/td[@class=&quot;rnb-del-min-width&quot;]/table[@class=&quot;mso-button-block rnb-container&quot;]/tbody[1]/tr[2]/td[@class=&quot;rnb-container-padding&quot;]/table[@class=&quot;rnb-columns-container&quot;]/tbody[1]/tr[1]/th[@class=&quot;rnb-force-col&quot;]/table[@class=&quot;rnb-col-1&quot;]/tbody[1]/tr[1]/td[1]/table[@class=&quot;rnb-btn-col-content&quot;]/tbody[1]/tr[1]/td[1]/span[1]/a[1]</value>
-      <webElementGuid>6f9a0188-5146-49e8-b820-4260edd836a5</webElementGuid>
+      <value>/html[1]/body[1]/table[@class=&quot;main-template&quot;]/tbody[1]/tr[1]/td[1]/table[@class=&quot;templateContainer&quot;]/tbody[1]/tr[12]/td[1]/div[1]/table[@id=&quot;Layout_51&quot;]/tbody[1]/tr[1]/td[@class=&quot;rnb-del-min-width&quot;]/table[@class=&quot;mso-button-block rnb-container&quot;]/tbody[1]/tr[2]/td[@class=&quot;rnb-container-padding&quot;]/table[@class=&quot;rnb-columns-container&quot;]/tbody[1]/tr[1]/th[@class=&quot;rnb-force-col&quot;]/table[@class=&quot;rnb-col-1&quot;]/tbody[1]/tr[1]/td[1]/table[@class=&quot;rnb-btn-col-content&quot;]/tbody[1]/tr[1]/td[1]/span[1]/a[1]</value>
+      <webElementGuid>be31a327-87c6-43e9-bbd5-3acf5a80716d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -102,7 +62,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//table[@id='Layout_51']/tbody/tr/td/table/tbody/tr[2]/td/table/tbody/tr/th/table/tbody/tr/td/table/tbody/tr/td/span/a</value>
-      <webElementGuid>79fd8f4c-ae5d-4ee2-a6aa-e6a48021244c</webElementGuid>
+      <webElementGuid>18a567e3-f978-4e54-90c6-0596bb164947</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,23 +70,23 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'브릭시티 가이드북 목록으로 가기')]</value>
-      <webElementGuid>083316e4-48f4-44aa-94bd-79189c767ebd</webElementGuid>
+      <webElementGuid>aea07547-650c-4e1d-b8f2-cadd1be8c6f9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='브릭시티 세계관 가이드북 챕터 4'])[2]/following::a[9]</value>
-      <webElementGuid>1ab51f2e-4e97-4410-bd55-a64a7ceb0b71</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='브릭시티 세계관 가이드북 챕터 5'])[2]/following::a[10]</value>
+      <webElementGuid>178dde04-057f-4f6e-93a9-52c12e3cd7d7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='View in browser'])[1]/following::a[12]</value>
-      <webElementGuid>0952681e-b78b-4887-8750-1a21f826e7ba</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View in browser'])[1]/following::a[13]</value>
+      <webElementGuid>0690084a-198d-44fd-959b-c476128305de</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Seoul, Rep. of Korea'])[1]/preceding::a[5]</value>
-      <webElementGuid>59e30c7c-93a4-4797-9160-1129f6cbae22</webElementGuid>
+      <webElementGuid>726877de-3800-435d-bcfd-b2ca8ceb99c7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='브릭시티 가이드북 목록으로 가기']/parent::*</value>
-      <webElementGuid>f9817916-2c37-454f-a5af-1a1ee44be4dc</webElementGuid>
+      <webElementGuid>30d061bd-0895-4f12-8d4a-ceb723d50e4b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -150,7 +110,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'https://drive.google.com/file/d/179RNjIO8kq-9gA2AklAM_nXhOMCbVgJk/view?usp=sharing')]</value>
-      <webElementGuid>f095c72d-7b8a-4dfc-bf42-a1ee23923cb5</webElementGuid>
+      <webElementGuid>c4eb4889-4d48-4cdc-abd9-375d1209417f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -158,7 +118,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//th/table/tbody/tr/td/table/tbody/tr/td/span/a</value>
-      <webElementGuid>852727d4-8064-4178-8254-2a903877ba7e</webElementGuid>
+      <webElementGuid>b9125de6-7c5f-4c44-b3bb-2f82cf197be0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -166,6 +126,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'https://drive.google.com/file/d/179RNjIO8kq-9gA2AklAM_nXhOMCbVgJk/view?usp=sharing' and (text() = '브릭시티 가이드북 목록으로 가기' or . = '브릭시티 가이드북 목록으로 가기')]</value>
-      <webElementGuid>8302bc22-5a97-4fb9-8a0c-8dc33a5bc22e</webElementGuid>
+      <webElementGuid>b1efc968-ee89-4c60-90e4-f9576b903450</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
