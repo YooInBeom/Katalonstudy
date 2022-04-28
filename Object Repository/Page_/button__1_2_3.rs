@@ -3,7 +3,7 @@
    <description></description>
    <name>button__1_2_3</name>
    <tag></tag>
-   <elementGuidId>060ad3b2-4371-4d11-a7ff-e83e285d572e</elementGuidId>
+   <elementGuidId>2de725a8-2630-4097-9d82-89fdc5703c35</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>c4caf998-ecfb-4066-808c-aadb46079d29</webElementGuid>
+      <webElementGuid>fbd53a4a-b907-40a6-bcd8-52e1f0896a0e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>global-navigation-guidebook</value>
-      <webElementGuid>d857fc6c-f01c-4b80-a120-159c69ebeff6</webElementGuid>
+      <webElementGuid>0b33f7de-e4b2-4a02-83e0-1424b60e77f4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>85df70da-6748-4b63-b16e-1a4146b8c2ef</webElementGuid>
+      <webElementGuid>1253f98a-3b82-47bd-b949-52c5bc2241f4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>class</name>
       <type>Main</type>
       <value>css-kdzvu3</value>
-      <webElementGuid>e7161cda-6f5b-451c-a9e8-81e9919fcf09</webElementGuid>
+      <webElementGuid>520a91a8-9b71-4eb8-be11-0c0e71f112cf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value>가이드북</value>
-      <webElementGuid>abd9bebd-4314-472b-bd0c-9a2f705cd322</webElementGuid>
+      <webElementGuid>70204dba-5cac-4852-b486-b20bf95b8b8d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,151 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;global-navigation-guidebook&quot;)</value>
-      <webElementGuid>1504213a-cbd2-4f3b-9654-6b062697b296</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>tag</name>
-      <type>Main</type>
-      <value>button</value>
-      <webElementGuid>aefb3a2d-9fd8-4a69-9095-21dd66aca4dd</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>global-navigation-guidebook</value>
-      <webElementGuid>ad3e7817-9676-4743-b023-57973043abe3</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>type</name>
-      <type>Main</type>
-      <value>button</value>
-      <webElementGuid>ba160f21-0ae9-4cef-bfe5-e68538c5dc11</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>css-kdzvu3</value>
-      <webElementGuid>c8ebda54-4fad-4ac9-8077-f9b1d24c4975</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>text</name>
-      <type>Main</type>
-      <value>가이드북</value>
-      <webElementGuid>dad83d50-0c6b-4dfc-8038-76816d4f0117</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath</name>
-      <type>Main</type>
-      <value>id(&quot;global-navigation-guidebook&quot;)</value>
-      <webElementGuid>2fcb1a6f-f9e4-49b1-821d-2646aa3f8d9f</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>tag</name>
-      <type>Main</type>
-      <value>button</value>
-      <webElementGuid>b4fbb1b4-50f7-4f25-b164-5221d7b8bdc2</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>global-navigation-guidebook</value>
-      <webElementGuid>ba4e9cde-9b49-4c70-9972-f19c49af378d</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>type</name>
-      <type>Main</type>
-      <value>button</value>
-      <webElementGuid>d63c7111-e07f-418d-814d-89e9bc097dd0</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>css-kdzvu3</value>
-      <webElementGuid>411940c9-b465-45e4-8a89-abbb6308f3a2</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>text</name>
-      <type>Main</type>
-      <value>가이드북</value>
-      <webElementGuid>f0ca6940-d91a-48aa-bf77-3b1b8f28df06</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath</name>
-      <type>Main</type>
-      <value>id(&quot;global-navigation-guidebook&quot;)</value>
-      <webElementGuid>f60a18f6-fce1-464a-b298-213dce7a3cff</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>tag</name>
-      <type>Main</type>
-      <value>button</value>
-      <webElementGuid>e4022bb9-42c1-4dc2-af98-161e5c82828b</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>global-navigation-guidebook</value>
-      <webElementGuid>cf68156e-3a1e-43f9-9050-ee7845beb44a</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>type</name>
-      <type>Main</type>
-      <value>button</value>
-      <webElementGuid>652233a5-ec79-490a-a28a-8578b04d5887</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>css-kdzvu3</value>
-      <webElementGuid>66f04e5c-93c7-44d3-8768-8330ac9632df</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>text</name>
-      <type>Main</type>
-      <value>가이드북</value>
-      <webElementGuid>441fb479-60ed-4a32-bab6-ba441690942a</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath</name>
-      <type>Main</type>
-      <value>id(&quot;global-navigation-guidebook&quot;)</value>
-      <webElementGuid>e1ceaa19-c9c7-43f0-93fd-397eacf2bfa7</webElementGuid>
+      <webElementGuid>82db5434-b121-4846-9715-9af98f5af5c1</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -214,7 +70,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='global-navigation-guidebook']</value>
-      <webElementGuid>45d0ea0c-e031-4fa4-a893-1c921120698a</webElementGuid>
+      <webElementGuid>8608bc22-808e-476c-a4d7-3dcf77ec68ef</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -222,7 +78,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='top']/nav/div/ul/li[4]/a/button</value>
-      <webElementGuid>014f5a80-b146-4955-b356-f6950f930734</webElementGuid>
+      <webElementGuid>f5ef0d1b-daa8-4bb2-bc91-3626a9416e09</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -230,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='커뮤니티'])[1]/following::button[1]</value>
-      <webElementGuid>08f66d8c-9e28-4b67-b1d3-b20e9824cb29</webElementGuid>
+      <webElementGuid>4c5640e8-da52-481d-a174-2c54e947e03a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -238,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='게임 소개'])[1]/following::button[2]</value>
-      <webElementGuid>960ed8a3-c0bb-4303-bfcb-ac0a00ea040d</webElementGuid>
+      <webElementGuid>1d8e7bf1-c8e0-4ba1-b1cb-f6ebc4b369cb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -246,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='구독하기'])[1]/preceding::button[3]</value>
-      <webElementGuid>f16f45b9-33a0-4ac3-8d7f-bb0906ac2dfc</webElementGuid>
+      <webElementGuid>349ac31a-d93f-44af-9216-f585fbca7552</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -254,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='자세히 보기'])[1]/preceding::button[4]</value>
-      <webElementGuid>f47d3e93-2553-48d9-bf86-ee32b9b16dc2</webElementGuid>
+      <webElementGuid>000f8a35-978b-4ad8-aaac-01cd64a8c9a5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -262,7 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='가이드북']/parent::*</value>
-      <webElementGuid>5cedf8fc-2998-4da6-9239-d2f7ec8550e5</webElementGuid>
+      <webElementGuid>4679e706-52a5-4e30-b2b6-1dc079136268</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -270,7 +126,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//a/button</value>
-      <webElementGuid>e983015a-bf37-4cde-b30e-d9aa533ad138</webElementGuid>
+      <webElementGuid>0bd485d9-d4b9-43eb-b4be-f220eae28afc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -278,6 +134,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@id = 'global-navigation-guidebook' and @type = 'button' and (text() = '가이드북' or . = '가이드북')]</value>
-      <webElementGuid>2a58ee85-0279-44af-9bc4-d002de54b92b</webElementGuid>
+      <webElementGuid>a36ace3a-71d7-4710-bea8-fe04774bb5ab</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

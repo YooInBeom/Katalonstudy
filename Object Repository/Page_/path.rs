@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path</name>
+   <tag></tag>
+   <elementGuidId>23838142-4716-48c0-bc1e-d0b3ee287a44</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>svg.css-1jm98op > path</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>a9f3dc99-ad91-419e-b2f4-5845945ad998</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M0 .72h11.269c8.524 0 15.533 6.035 15.533 13.775 0 7.755-7.06 13.765-15.533 13.765H0V.72zM7.944 22.2h1.79c4.75 0 8.794-2.34 8.794-7.705 0-4.925-3.605-7.705-8.71-7.705H7.95V22.2h-.005zM36.81 6.79v4.61h8.965v6.055H36.81V22.2h9.449v6.055H28.867V.72H46.26v6.07h-9.45zM62.353 17.455L69.777.72h8.634L65.358 28.255h-6.165L46.35.72h8.624l7.379 16.735zM95.554 7.81c-1.454-1.095-3.314-1.815-5.27-1.815-1.454 0-3.404.76-3.404 2.295 0 1.615 2.15 2.23 3.53 2.63l2.03.545c4.26 1.13 7.544 3.07 7.544 7.52 0 2.74-.73 5.555-3.165 7.425C94.43 28.225 91.225 29 88.14 29c-3.85 0-7.624-1.17-10.739-3.135l3.4-5.78c2 1.575 4.344 2.84 7.064 2.84 1.865 0 3.855-.835 3.855-2.77 0-2-3.13-2.705-4.83-3.14-4.984-1.275-8.279-2.45-8.279-7.77C78.601 3.65 83.041 0 89.155 0c3.085 0 6.85.88 9.569 2.27l-3.17 5.54zM110.078.72h-7.954v27.535h7.954V.72zM130.425 7.81c-1.459-1.095-3.329-1.815-5.264-1.815-1.47 0-3.41.76-3.41 2.295 0 1.615 2.15 2.23 3.525 2.63l2.025.545c4.259 1.13 7.539 3.07 7.539 7.52 0 2.74-.735 5.555-3.17 7.425-2.384 1.815-5.579 2.59-8.664 2.59-3.844 0-7.624-1.17-10.744-3.135l3.41-5.78c1.98 1.575 4.34 2.84 7.054 2.84 1.865 0 3.845-.835 3.845-2.77 0-2-3.125-2.705-4.82-3.14-4.989-1.275-8.274-2.45-8.274-7.77 0-5.595 4.42-9.245 10.539-9.245 3.075 0 6.849.88 9.574 2.27l-3.165 5.54zM149.153 28.255h-7.944V6.79h-6.564V.72h21.078v6.07h-6.57v21.465zM164.932 6.79v4.61h8.959v6.055h-8.959V22.2h9.449v6.055h-17.394V.72h17.394v6.07h-9.449zM203.082 28.26h-9.894l-7.509-10.585h-.07V28.26h-7.949V.72h11.879c6.044 0 10.634 2.615 10.634 8.48 0 3.805-2.365 7.08-6.695 7.78l9.604 11.28zm-17.473-15.185h.765c2.6 0 5.52-.44 5.52-3.445 0-2.98-2.92-3.425-5.52-3.425h-.765v6.87z</value>
+      <webElementGuid>3999dd80-63e5-4190-8c5d-5eb77cb344cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>#fff</value>
+      <webElementGuid>11eb2f65-4301-4f47-a944-1edbb54b57cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;footer-link-devsistersdotcom&quot;)/svg[@class=&quot;css-1jm98op&quot;]/path[1]</value>
+      <webElementGuid>e7c0aadf-8ba0-4650-b4e2-b08eeb293842</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

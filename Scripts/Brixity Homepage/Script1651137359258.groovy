@@ -23,6 +23,36 @@ WebUI.navigateToUrl('https://www.playbrixity.com/ko/')
 
 WebUI.maximizeWindow()
 
+WebUI.click(findTestObject('Object Repository/Page_/button_picturesource typeimagewebp srcsetst_e52943'))
+
+WebUI.delay(2)
+
+WebUI.click(findTestObject('Object Repository/Page_/svg__css-uwwqev'))
+
+WebUI.delay(2)
+
+WebUI.switchToWindowTitle('Brixity (@playbrixity) / 트위터')
+
+WebUI.verifyElementVisible(findTestObject('Page_Brixity (playbrixity)/div_playbrixity'), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.switchToWindowTitle('브릭시티')
+
+WebUI.click(findTestObject('Object Repository/Page_/svg__css-uwwqev_1'))
+
+WebUI.delay(2)
+
+WebUI.verifyElementVisible(findTestObject('Page_Brixity - YouTube/yt-formatted-string_Brixity'))
+
+WebUI.switchToWindowTitle('브릭시티')
+
+WebUI.click(findTestObject('Object Repository/Page_/svg__css-uwwqev_1_2'))
+
+WebUI.delay(2)
+
+WebUI.verifyElementNotVisible(findTestObject('Page_Brixity -   Facebook/h1_Brixity'))
+
+WebUI.switchToWindowTitle('브릭시티')
+
 WebUI.click(findTestObject('Object Repository/Page_/button_'))
 
 WebUI.delay(2)
@@ -39,21 +69,35 @@ WebUI.click(findTestObject('Object Repository/Page_/button__1_2_3'))
 
 WebUI.delay(2)
 
-WebUI.switchToWindowTitle('브릭시티 세계관 가이드북 목록')
+WebUI.switchToWindowTitle('브릭시티')
 
-WebUI.click(findTestObject('Object Repository/Page_/a_1 -'))
+WebUI.click(findTestObject('Object Repository/Page_/a_'))
 
-WebUI.click(findTestObject('Object Repository/Page_1/a_1'))
+WebUI.delay(2)
 
-WebUI.click(findTestObject('Object Repository/Page_/a_2 -'))
+WebUI.switchToWindowTitle('브릭시티')
 
-WebUI.click(findTestObject('Object Repository/Page_2/a_2'))
+WebUI.click(findTestObject('Object Repository/Page_/a__1'))
 
-WebUI.click(findTestObject('Object Repository/Page_/a_3 -'))
+WebUI.delay(2)
 
-WebUI.click(findTestObject('Object Repository/Page_3/a_3'))
+WebUI.switchToWindowTitle('브릭시티')
 
-WebUI.click(findTestObject('Object Repository/Page_/a_4 -'))
+WebUI.click(findTestObject('Object Repository/Page_/a__1_2'))
 
-WebUI.closeBrowser()
+WebUI.delay(2)
+
+WebUI.switchToWindowTitle('브릭시티')
+
+WebUI.click(findTestObject('Object Repository/Page_/svg__css-1jm98op'))
+
+WebUI.delay(2)
+
+WebUI.switchToWindowTitle('브릭시티')
+
+WebUI.setText(findTestObject('Object Repository/Page_/input__css-1mby5p4'), 'yib950@gmail.com')
+
+WebUI.click(findTestObject('Object Repository/Page_/span__css-12pj4y1'))
+
+WebUI.click(findTestObject('Object Repository/Page_/button__1_2_3_4'))
 

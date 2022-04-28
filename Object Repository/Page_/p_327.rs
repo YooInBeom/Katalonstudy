@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>h3_</name>
+   <name>p_327</name>
    <tag></tag>
-   <elementGuidId>f1bf64bc-ee30-497a-87ba-39735ba3caec</elementGuidId>
+   <elementGuidId>dc4edf54-bca4-4087-afcb-feaf99b11a31</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>h3.LC20lb.MBeuO.DKV0Md</value>
+         <value>p.css-tp909m</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='rso']/div/div/div/div/div/div/div/div/a/h3</value>
+         <value>//div[@id='gatsby-focus-wrapper']/div/footer/div[2]/p</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,87 +21,79 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>h3</value>
-      <webElementGuid>28d8e684-06d6-4c9e-aeb3-e7fe5e4b2599</webElementGuid>
+      <value>p</value>
+      <webElementGuid>60248483-66c0-4175-ae3f-c2ac7893b14e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>LC20lb MBeuO DKV0Md</value>
-      <webElementGuid>3dda43b1-1d77-4a98-91a5-f50c9fc7f138</webElementGuid>
+      <value>css-tp909m</value>
+      <webElementGuid>6bc03b53-6918-4abb-a3b0-547556d4ce37</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>브릭시티</value>
-      <webElementGuid>aabd4bad-e162-4e28-92d9-abb8d84d8113</webElementGuid>
+      <value>서울특별시 강남구 도산대로 327</value>
+      <webElementGuid>aac05e9c-8c76-4d4e-8e0f-cd67a4eeb359</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;rso&quot;)/div[1]/div[@class=&quot;g&quot;]/div[1]/div[1]/div[@class=&quot;kWxLod&quot;]/div[@class=&quot;jtfYYd&quot;]/div[@class=&quot;NJo7tc Z26q7c jGGQ5e&quot;]/div[@class=&quot;yuRUbf&quot;]/a[1]/h3[@class=&quot;LC20lb MBeuO DKV0Md&quot;]</value>
-      <webElementGuid>7a997302-8240-4d95-ab3f-3c0ac9552565</webElementGuid>
+      <value>id(&quot;gatsby-focus-wrapper&quot;)/div[@class=&quot;css-pdjuhq&quot;]/footer[@class=&quot;css-1ulsyan&quot;]/div[@class=&quot;css-15g68ba&quot;]/p[@class=&quot;css-tp909m&quot;]</value>
+      <webElementGuid>a3446fd0-2e93-4227-9375-3dffefc10001</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='rso']/div/div/div/div/div/div/div/div/a/h3</value>
-      <webElementGuid>460b24a0-45c2-4bc3-966a-090cf09ae693</webElementGuid>
+      <value>//div[@id='gatsby-focus-wrapper']/div/footer/div[2]/p</value>
+      <webElementGuid>75adbcf1-ac61-4359-b817-bc4b9fa50bfe</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='검색결과'])[1]/following::h3[1]</value>
-      <webElementGuid>1bc95fb9-1150-4059-b925-a14855500421</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='이용약관'])[1]/following::p[1]</value>
+      <webElementGuid>991900bc-c67f-4fa6-bcc4-0526d0438ba3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='검색 도움말'])[1]/following::h3[1]</value>
-      <webElementGuid>50c1cacb-4f58-46ce-ad18-fc731113d395</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='개인정보처리방침'])[1]/following::p[1]</value>
+      <webElementGuid>1b86690d-891c-43f5-8209-d9a5356f891c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='› ...'])[1]/preceding::h3[1]</value>
-      <webElementGuid>9bb328a2-0acf-4ba7-a888-a43ef3b5becd</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='브릭시티']/parent::*</value>
-      <webElementGuid>f2092282-d3fd-4a3e-8122-0371c696f527</webElementGuid>
+      <value>//*/text()[normalize-space(.)='서울특별시 강남구 도산대로 327']/parent::*</value>
+      <webElementGuid>767b6fd8-908c-45ee-9910-3d41cc3efb9c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//h3</value>
-      <webElementGuid>4bcdfc04-f824-40ea-a1bd-3aa62a14bf7a</webElementGuid>
+      <value>//div[2]/p</value>
+      <webElementGuid>652fa40c-16b2-4a59-9f82-142dbf775ec8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//h3[(text() = '브릭시티' or . = '브릭시티')]</value>
-      <webElementGuid>c3260b58-ecb8-4e70-8a64-958e13009908</webElementGuid>
+      <value>//p[(text() = '서울특별시 강남구 도산대로 327' or . = '서울특별시 강남구 도산대로 327')]</value>
+      <webElementGuid>de1e5a73-0ea0-4098-9ee3-b6e795f77739</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

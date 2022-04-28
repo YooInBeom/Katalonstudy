@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>footer_327 02-2148-0750  02-2148-0629 2021 _ba41f5</name>
+   <tag></tag>
+   <elementGuidId>910bddd8-ad66-44a3-b4c7-b948538bc61a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>footer.css-1ulsyan</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='gatsby-focus-wrapper']/div/footer</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>footer</value>
+      <webElementGuid>365d656e-ae26-4cbb-b630-675e6c47f6aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-1ulsyan</value>
+      <webElementGuid>a039ab28-1997-4631-8fa6-4d156aab8b43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>프레스 키트개인정보처리방침이용약관서울특별시 강남구 도산대로 327전화: 02-2148-0750 팩스: 02-2148-0629ⓒ 2021 Devsisters Corp. All Rights Reserved.</value>
+      <webElementGuid>e4034fd7-b62e-428e-ad81-74feb46f8d02</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;gatsby-focus-wrapper&quot;)/div[@class=&quot;css-pdjuhq&quot;]/footer[@class=&quot;css-1ulsyan&quot;]</value>
+      <webElementGuid>38aa2149-462e-42d8-86a2-3d38c94c8121</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='gatsby-focus-wrapper']/div/footer</value>
+      <webElementGuid>a5798868-c8a4-423d-8de3-5a1bb1f5fd57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FOLLOW US!'])[1]/following::footer[1]</value>
+      <webElementGuid>51d03873-8c55-4775-8a31-23cd9f468d49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='공식 커뮤니티'])[1]/following::footer[1]</value>
+      <webElementGuid>b230e9ad-ccb9-4fe0-bbaf-8975ae0063fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//footer</value>
+      <webElementGuid>4455b77a-eb9d-4a63-b9a8-67f74e4602fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//footer[(text() = '프레스 키트개인정보처리방침이용약관서울특별시 강남구 도산대로 327전화: 02-2148-0750 팩스: 02-2148-0629ⓒ 2021 Devsisters Corp. All Rights Reserved.' or . = '프레스 키트개인정보처리방침이용약관서울특별시 강남구 도산대로 327전화: 02-2148-0750 팩스: 02-2148-0629ⓒ 2021 Devsisters Corp. All Rights Reserved.')]</value>
+      <webElementGuid>445e88a1-d7dd-462d-9ffa-f1c2786d3ad0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

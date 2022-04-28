@@ -3,7 +3,7 @@
    <description></description>
    <name>button_</name>
    <tag></tag>
-   <elementGuidId>02aa0377-7732-4195-b756-7a64425f4353</elementGuidId>
+   <elementGuidId>423a076c-f8fc-4d4e-9e62-a27697a2de3d</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>57a0ad70-2a25-486b-af28-2b331fdcda5e</webElementGuid>
+      <webElementGuid>52226da5-f835-437d-946b-53018b257bc0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>global-navigation-home</value>
-      <webElementGuid>69097044-dc32-44bb-93b2-fd864283a739</webElementGuid>
+      <webElementGuid>9ab75ccb-78da-47f4-9204-5a3ab7fa52f2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>css-kdzvu3</value>
-      <webElementGuid>cbaad074-542a-4174-863a-3745ddaa5682</webElementGuid>
+      <webElementGuid>e7fe3540-8203-4a45-a5f9-7054d0b00863</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>홈</value>
-      <webElementGuid>09d3fc4a-42dd-4583-9865-7322d6d9525b</webElementGuid>
+      <webElementGuid>66d313e8-95c5-45b3-8e1d-0e10961df6ea</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,127 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;global-navigation-home&quot;)</value>
-      <webElementGuid>0f4bdec4-05c8-461a-8e08-bf8eeb3327ac</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>tag</name>
-      <type>Main</type>
-      <value>button</value>
-      <webElementGuid>57f9e9e9-848e-4c4b-8235-9d4c449e15aa</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>global-navigation-home</value>
-      <webElementGuid>bea7bfca-6ec0-4bb1-856b-b27b6af8bf21</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>css-kdzvu3</value>
-      <webElementGuid>7a46791a-0670-4728-85e3-ba47a544c88d</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>text</name>
-      <type>Main</type>
-      <value>홈</value>
-      <webElementGuid>af832777-7bf7-434d-a3e1-002474b3aeda</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath</name>
-      <type>Main</type>
-      <value>id(&quot;global-navigation-home&quot;)</value>
-      <webElementGuid>7b3c9417-ba5b-4ec8-8df3-264c8c0579b0</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>tag</name>
-      <type>Main</type>
-      <value>button</value>
-      <webElementGuid>bd5e18ea-3256-4a35-8fb2-c3f1b75d2c2b</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>global-navigation-home</value>
-      <webElementGuid>73ca3a5f-57b1-42a5-98e2-38d3a170e92f</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>css-kdzvu3</value>
-      <webElementGuid>b47c5292-8766-4d60-b7a1-f0a34fa9ae80</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>text</name>
-      <type>Main</type>
-      <value>홈</value>
-      <webElementGuid>dc79f6ce-0355-49eb-a08e-ae5972315ed6</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath</name>
-      <type>Main</type>
-      <value>id(&quot;global-navigation-home&quot;)</value>
-      <webElementGuid>bc92a4c9-91e7-416f-8a9f-0fbc973bc4f8</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>tag</name>
-      <type>Main</type>
-      <value>button</value>
-      <webElementGuid>4bd11fb3-fb6a-4418-a2d9-75581a827cf4</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>global-navigation-home</value>
-      <webElementGuid>f6160423-2f2a-4542-89a9-ec42d93d0245</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>css-kdzvu3</value>
-      <webElementGuid>f8a5db0e-61a7-40e6-98a0-a83a083ddeb7</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>text</name>
-      <type>Main</type>
-      <value>홈</value>
-      <webElementGuid>430a5ec9-2b4a-443d-8510-dc7cfc87be45</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath</name>
-      <type>Main</type>
-      <value>id(&quot;global-navigation-home&quot;)</value>
-      <webElementGuid>fcb22dfb-1acc-4316-97e5-ea19c29b7df7</webElementGuid>
+      <webElementGuid>54663a4e-9582-45f2-a00b-557a1d7ba934</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -182,7 +62,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='global-navigation-home']</value>
-      <webElementGuid>d84c1f1f-e543-4957-b1a5-2dcc113a99ec</webElementGuid>
+      <webElementGuid>74969e11-c84e-4209-a71c-9ec9fcba4e38</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -190,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='top']/nav/div/ul/li/button</value>
-      <webElementGuid>03b46fd0-edd9-4392-bc90-46b749aebb1b</webElementGuid>
+      <webElementGuid>38128bf9-805f-4aad-89ee-f5aecb3238a5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -198,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='쿠키런: 퍼즐월드'])[2]/following::button[2]</value>
-      <webElementGuid>406497a4-e70e-433b-8162-aa25cb572d3b</webElementGuid>
+      <webElementGuid>fcdc0cbd-93c5-42cb-b5d5-edc4c1290725</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -206,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='쿠키런: 킹덤'])[2]/following::button[2]</value>
-      <webElementGuid>5dfd1de6-62cd-4edc-af2b-1e38b6ef3e6e</webElementGuid>
+      <webElementGuid>0b2c88e3-6f42-49b2-84fb-70602188cae3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -214,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='게임 소개'])[1]/preceding::button[1]</value>
-      <webElementGuid>48f81269-95f1-4ded-b327-5723d5ee996c</webElementGuid>
+      <webElementGuid>f150dfe7-bf91-4a54-a3c8-a2257b51a056</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -222,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='커뮤니티'])[1]/preceding::button[2]</value>
-      <webElementGuid>e705fe73-c427-40b4-8285-5201acf40fe0</webElementGuid>
+      <webElementGuid>4ff7f3a4-65f3-444f-abe9-69d56694fb0e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -230,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='홈']/parent::*</value>
-      <webElementGuid>4525995f-9e80-4186-85d3-98f6ced8fb5e</webElementGuid>
+      <webElementGuid>cd637ac3-87a6-4ebe-9182-b451cc32aeec</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -238,7 +118,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li/button</value>
-      <webElementGuid>28bfc28a-70bb-4321-8fd2-e26a6a57e1ed</webElementGuid>
+      <webElementGuid>87689f7d-de72-424c-a347-8325bb8da23f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -246,6 +126,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@id = 'global-navigation-home' and (text() = '홈' or . = '홈')]</value>
-      <webElementGuid>3c3c1433-22d3-4848-b3d3-95c0024500d2</webElementGuid>
+      <webElementGuid>7080180d-9193-4374-a906-2c422d4f7384</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

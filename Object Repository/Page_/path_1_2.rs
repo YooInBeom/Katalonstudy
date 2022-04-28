@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path_1_2</name>
+   <tag></tag>
+   <elementGuidId>442a524b-d9b1-4a3e-8cb1-a993c1b02a22</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>a33cfebb-cd0b-4ea4-9e4a-a686282d54aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M69.963 64.953L72.18 50.5H58.312v-9.375c0-3.955 1.934-7.813 8.145-7.813h6.309V21.008s-5.723-.977-11.192-.977c-11.426 0-18.886 6.924-18.886 19.453V50.5H29.992v14.453h12.695v34.941a50.693 50.693 0 0015.626 0v-34.94h11.65z</value>
+      <webElementGuid>b7ed57b5-176c-4f2a-b0b5-cee4cbcc4bd3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>#fff</value>
+      <webElementGuid>f93620e3-a4b6-4083-bdc0-29edb7ed2602</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;global-navigation-facebook&quot;)/svg[@class=&quot;css-uwwqev&quot;]/path[2]</value>
+      <webElementGuid>b1bcc050-f375-44ca-a49a-0222020ea41d</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

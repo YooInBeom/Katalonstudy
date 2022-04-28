@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button__1</name>
+   <name>button__1_2_3_4</name>
    <tag></tag>
-   <elementGuidId>156dcb4c-5841-4447-b8ab-7cd3fed4d51c</elementGuidId>
+   <elementGuidId>ca4918f6-5f4c-4713-9cf7-2b3f211e60b3</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#global-navigation-about</value>
+         <value>button.css-1iw4aqn</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='global-navigation-about']</value>
+         <value>//button[@type='submit']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,110 +22,110 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>d8dd1f06-61df-4e13-bfb1-ea19ef4a2786</webElementGuid>
+      <webElementGuid>ba327143-13fe-45dd-bb96-cb27b95add22</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>id</name>
+      <name>type</name>
       <type>Main</type>
-      <value>global-navigation-about</value>
-      <webElementGuid>acc67060-8eba-4771-8a03-fa52de76ecb7</webElementGuid>
+      <value>submit</value>
+      <webElementGuid>53bbfacd-b2a3-43f6-b59a-f71a82a8ebd5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>css-kdzvu3</value>
-      <webElementGuid>30527355-6972-4383-ab56-27df193811b1</webElementGuid>
+      <value>css-1iw4aqn</value>
+      <webElementGuid>83afb85f-2f2f-4551-93b8-78d703c438c8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>게임 소개</value>
-      <webElementGuid>75175f0e-16e4-40d9-9292-32828e0f71d2</webElementGuid>
+      <value>구독하기</value>
+      <webElementGuid>139bf4d9-5222-486c-a015-de799295ef0e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;global-navigation-about&quot;)</value>
-      <webElementGuid>72e94560-e3c0-45ba-8b55-8166ad7a746b</webElementGuid>
+      <value>id(&quot;home&quot;)/div[@class=&quot;gbi-1208751019-kMRAbbvUQYqJRSjgFumbPF&quot;]/div[@class=&quot;css-ae0qq0&quot;]/form[1]/div[@class=&quot;css-29nxvx&quot;]/button[@class=&quot;css-1iw4aqn&quot;]</value>
+      <webElementGuid>e2f4c043-8072-4277-a80e-20096a504d60</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//button[@id='global-navigation-about']</value>
-      <webElementGuid>a1df5a27-c56a-4ce2-82b0-deade0073e01</webElementGuid>
+      <value>//button[@type='submit']</value>
+      <webElementGuid>63030360-8db5-4a98-bbd2-46f9a3df315f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='top']/nav/div/ul/li[2]/button</value>
-      <webElementGuid>1653fbe0-f62d-4544-85d4-86a5ed65ceff</webElementGuid>
+      <value>//section[@id='home']/div/div/form/div/button</value>
+      <webElementGuid>d1667ff2-5ac4-4645-ba81-77c47eeea9e0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='홈'])[1]/following::button[1]</value>
-      <webElementGuid>0327b2af-a94e-4446-903f-9bd558d4e337</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='가이드북'])[1]/following::button[3]</value>
+      <webElementGuid>8f8e2469-9b6b-4a18-9263-c4a191356c57</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='쿠키런: 퍼즐월드'])[2]/following::button[3]</value>
-      <webElementGuid>b774784a-6548-40b5-9ac6-357ddd7511bf</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='커뮤니티'])[1]/following::button[4]</value>
+      <webElementGuid>6996ce8f-094e-4df6-b175-3a5d3f2b55f8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='커뮤니티'])[1]/preceding::button[1]</value>
-      <webElementGuid>41a2983a-1f2e-45b9-8950-54eb77d98e12</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='자세히 보기'])[1]/preceding::button[1]</value>
+      <webElementGuid>c49e247e-e619-4a85-95d7-f878c54e749a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='가이드북'])[1]/preceding::button[2]</value>
-      <webElementGuid>bfe1f301-0adb-4a0e-b84c-80bfda11bdc1</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='게임 소개'])[2]/preceding::button[2]</value>
+      <webElementGuid>1a18ce5d-87a7-434f-aaf3-91ddc7b2f8a4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='게임 소개']/parent::*</value>
-      <webElementGuid>86e4133e-0684-4b0d-88e7-16ab7ddde1b8</webElementGuid>
+      <value>//*/text()[normalize-space(.)='구독하기']/parent::*</value>
+      <webElementGuid>fe9351f3-5d69-40b9-a74c-3545cda8a04b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//li[2]/button</value>
-      <webElementGuid>275c4f5e-21f4-4da5-ab2b-97825fc4ebe8</webElementGuid>
+      <value>//form/div/button</value>
+      <webElementGuid>dee2bef2-f12a-48e1-8776-cea2e37529be</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@id = 'global-navigation-about' and (text() = '게임 소개' or . = '게임 소개')]</value>
-      <webElementGuid>51b2ec8d-4a84-4b3c-a4f1-7cdcf5745323</webElementGuid>
+      <value>//button[@type = 'submit' and (text() = '구독하기' or . = '구독하기')]</value>
+      <webElementGuid>5d800291-527f-4630-914f-d02376047bae</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

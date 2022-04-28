@@ -3,7 +3,7 @@
    <description></description>
    <name>button__1_2</name>
    <tag></tag>
-   <elementGuidId>b05c1eb6-9d57-40cd-a3c8-073061faa1a6</elementGuidId>
+   <elementGuidId>2891df93-03e4-46db-81a1-cc20f8d73806</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>f1ef30a4-97ad-4fd3-b9ec-8771440333f1</webElementGuid>
+      <webElementGuid>81479627-f95b-4311-ba0f-8efe006d5c54</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>global-navigation-community</value>
-      <webElementGuid>8c08a7cb-8ff3-4a7d-a46f-48e02519273f</webElementGuid>
+      <webElementGuid>2c273815-4b64-4fcc-b155-ee63a0ec98e9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>css-kdzvu3</value>
-      <webElementGuid>52f8fb45-2133-4024-955e-06bdceffc8b9</webElementGuid>
+      <webElementGuid>a6107cd0-b05f-4305-8298-54c948824ddb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>커뮤니티</value>
-      <webElementGuid>91c04787-15cd-481a-8a10-85b85c925f85</webElementGuid>
+      <webElementGuid>6d3b7eb7-cad8-453a-a846-0f008a19e4ef</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,127 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;global-navigation-community&quot;)</value>
-      <webElementGuid>1e84fffc-6eb7-475e-b509-cc42c136440d</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>tag</name>
-      <type>Main</type>
-      <value>button</value>
-      <webElementGuid>2ac6012e-e22b-4fe0-a09a-d4a4513417e8</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>global-navigation-community</value>
-      <webElementGuid>15498e8f-18e1-4787-96c9-1a4066519547</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>css-kdzvu3</value>
-      <webElementGuid>9840343a-d2e5-4339-8e51-a00eda2eb4c5</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>text</name>
-      <type>Main</type>
-      <value>커뮤니티</value>
-      <webElementGuid>caa88cd3-a477-4388-8cf5-a048c4ce5c90</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath</name>
-      <type>Main</type>
-      <value>id(&quot;global-navigation-community&quot;)</value>
-      <webElementGuid>aba3cfb2-4c52-4d09-b033-0807ad16825b</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>tag</name>
-      <type>Main</type>
-      <value>button</value>
-      <webElementGuid>7bf92609-afa4-4a6b-b7d0-2b136488e579</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>global-navigation-community</value>
-      <webElementGuid>ceeae7e3-ddbd-40b3-af76-4774cf90b592</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>css-kdzvu3</value>
-      <webElementGuid>c914e3e9-313a-4afe-863f-c8375479f70a</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>text</name>
-      <type>Main</type>
-      <value>커뮤니티</value>
-      <webElementGuid>e465fd3b-56d7-4684-a34b-cbaea5183c3e</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath</name>
-      <type>Main</type>
-      <value>id(&quot;global-navigation-community&quot;)</value>
-      <webElementGuid>126f9f24-03ec-4eee-a478-a0b170c5c51c</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>tag</name>
-      <type>Main</type>
-      <value>button</value>
-      <webElementGuid>edc6c116-bc17-40b1-9cc1-ce7dde3b890a</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>global-navigation-community</value>
-      <webElementGuid>c07b38a9-c033-4a54-b36c-05609255d194</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>css-kdzvu3</value>
-      <webElementGuid>3855241b-cdd1-416c-b65c-601d953daec5</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>text</name>
-      <type>Main</type>
-      <value>커뮤니티</value>
-      <webElementGuid>8a987c5d-1f68-4d2d-b8cf-7a54eabdf445</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath</name>
-      <type>Main</type>
-      <value>id(&quot;global-navigation-community&quot;)</value>
-      <webElementGuid>000cc4d0-c459-4eb6-8a04-470ad1a4e70b</webElementGuid>
+      <webElementGuid>baee03fe-36b1-4368-93d0-fb6f184a177a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -182,7 +62,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='global-navigation-community']</value>
-      <webElementGuid>cd57d635-183b-429d-b690-961e04702fab</webElementGuid>
+      <webElementGuid>18c7dd1e-6498-4098-8f53-edbb2948476a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -190,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='top']/nav/div/ul/li[3]/button</value>
-      <webElementGuid>2dc2b690-5b40-45b7-84ad-4de09668c8de</webElementGuid>
+      <webElementGuid>1fa2b8cd-58f3-4364-8337-d181fb8b8f31</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -198,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='게임 소개'])[1]/following::button[1]</value>
-      <webElementGuid>522a5435-58b6-4880-a0d3-36b3b0fc01e0</webElementGuid>
+      <webElementGuid>2aff4799-1345-4d33-a884-d8e97b91c71e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -206,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='홈'])[1]/following::button[2]</value>
-      <webElementGuid>93ddc049-5727-4ff6-b006-ba7c41114c2c</webElementGuid>
+      <webElementGuid>fe830681-c96a-480c-a217-64842cd44ff0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -214,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='가이드북'])[1]/preceding::button[1]</value>
-      <webElementGuid>bf7a3ec4-40a6-4f51-953a-20ccc933995e</webElementGuid>
+      <webElementGuid>577edc4b-4c19-4299-9dc2-9939c36db962</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -222,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='구독하기'])[1]/preceding::button[4]</value>
-      <webElementGuid>e0b8a48c-3464-466c-8c78-b350ef7332b8</webElementGuid>
+      <webElementGuid>10a55707-a68b-4b1b-ad05-61950a5e7016</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -230,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='커뮤니티']/parent::*</value>
-      <webElementGuid>2b770d40-4d74-44c2-b747-88001233b0ed</webElementGuid>
+      <webElementGuid>8c74af24-bd20-4138-8d8c-290b1f3a2472</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -238,7 +118,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[3]/button</value>
-      <webElementGuid>6774fa3c-d681-4235-8930-2665c1927088</webElementGuid>
+      <webElementGuid>6531c3cb-0dda-487e-9858-9ac540471159</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -246,6 +126,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@id = 'global-navigation-community' and (text() = '커뮤니티' or . = '커뮤니티')]</value>
-      <webElementGuid>894dbd42-6c50-428a-8c36-2b9abc25f9ab</webElementGuid>
+      <webElementGuid>71a6ba30-1398-4198-a912-52565dcaf72d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
