@@ -41,7 +41,9 @@ WebUI.click(findTestObject('Object Repository/Page_/svg__css-uwwqev_1'))
 
 WebUI.delay(2)
 
-WebUI.verifyElementVisible(findTestObject('Page_Brixity - YouTube/yt-formatted-string_Brixity'))
+WebUI.switchToWindowTitle('Brixity - YouTube')
+
+WebUI.verifyElementVisible(findTestObject('Page_Brixity - YouTube/yt-formatted-string_Brixity'), FailureHandling.STOP_ON_FAILURE)
 
 WebUI.switchToWindowTitle('브릭시티')
 
@@ -49,7 +51,9 @@ WebUI.click(findTestObject('Object Repository/Page_/svg__css-uwwqev_1_2'))
 
 WebUI.delay(2)
 
-WebUI.verifyElementNotVisible(findTestObject('Page_Brixity -   Facebook/h1_Brixity'))
+WebUI.switchToWindowTitle('Brixity - 홈 | Facebook')
+
+WebUI.verifyElementVisible(findTestObject('Page_Brixity -   Facebook/h1_Brixity'), FailureHandling.STOP_ON_FAILURE)
 
 WebUI.switchToWindowTitle('브릭시티')
 
